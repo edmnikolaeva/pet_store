@@ -15,9 +15,9 @@ Developed the “Pet Insurance” functionality for the LUCKY mobile app, handli
 
 ### 🧭 Business Context
 
-- **Domain:** Pet e-commerce / Pet care services / Mobile application
-- **Scope:** Implement new Pet Insurance functionality in the existing mobile app LUCKY
-- **Stakeholders:** client, end users, development team (6 pers)
+- **Domain:** Pet E-commerce Mobile App
+- **Scope:** Implement new Pet Insurance functionality in the existing mobile app
+- **Stakeholders:** Client, end users, development team (6 pers)
 
 ---
 
