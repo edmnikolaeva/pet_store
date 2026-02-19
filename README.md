@@ -15,9 +15,9 @@ Developed the “Pet Insurance” functionality for the LUCKY mobile app, handli
 
 ### 🧭 Business Context
 
-**Domain:** Pet e-commerce / Pet care services / Mobile application 
-**Scope:** Implement new Pet Insurance functionality in the existing mobile app LUCKY  
-**Stakeholders:** client, end users, development team (6 pers)
+- **Domain:** Pet e-commerce / Pet care services / Mobile application
+- **Scope:** Implement new Pet Insurance functionality in the existing mobile app LUCKY
+- **Stakeholders:** client, end users, development team (6 pers)
 
 ---
 
@@ -115,7 +115,7 @@ Developed the “Pet Insurance” functionality for the LUCKY mobile app, handli
 1. Collected and analyzed stakeholder input  
 2. Reviewed existing microservices and integration points 
 3. Defined functional requirements and user scenarios  
-4. Developed [C4 Model](https://github.com/edmnikolaeva/animal-shop-api/blob/main/C4_Animal_Shop_Feature.jpg) for the new feature  
+4. Developed [C4 Model](https://github.com/edmnikolaeva/pet_store/blob/main/C4_lucky.jpg) for the new feature  
 5. Analyzed UI mockups  
 6. Designed high-level modeling of [API profile](https://github.com/edmnikolaeva/pet_store/blob/main/моделирование_API_lucky.pdf) for Pet Insurance  
 7. Created [openAPI specification](https://github.com/edmnikolaeva/pet_store/blob/main/api_lucky.yaml) in Swagger 
