@@ -1,7 +1,7 @@
 # 🐾 PET SHOP MOBILE APP — API & Architecture Enhancement
 
 <table> <tr> <td>
-Developed the “Pet Insurance” functionality for the LUCKY mobile app, handling ~5,000 daily active users with ≤10s response time, enabling the business to quickly enter the growing pet insurance market, increase revenue, and prepare for scaling to additional types of pets
+Developed the “Pet Insurance” functionality for the mobile app, handling ~5,000 daily active users with ≤10s response time, enabling the business to quickly enter the growing pet insurance market, increase revenue, and prepare for scaling to additional types of pets
 </td> <td width="220"> <img src="https://github.com/edmnikolaeva/pet_store/blob/main/project_logo.png" alt="Visual Anchor — C4 Model" width="200"/> </td> </tr> </table>
 
 ---
