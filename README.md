@@ -1,7 +1,7 @@
-# 🐾 PET SHOP MOBILE APP — API & Architecture Enhancement
+# 🐾 SHOP MOBILE APP — API & Architecture Enhancement
 
 <table> <tr> <td>
-Developed the “Pet Insurance” functionality for the mobile app, handling ~5,000 daily active users with ≤10s response time, enabling the business to quickly enter the growing pet insurance market, increase revenue, and prepare for scaling to additional types of pets
+Developed the “Insurance” functionality for the mobile app, handling ~5,000 daily active users with ≤10s response time, enabling the business to quickly enter the growing pet insurance market, increase revenue, and prepare for scaling to additional types of pets
 </td> <td width="220"> <img src="https://github.com/edmnikolaeva/pet_store/blob/main/project_logo.png" alt="Visual Anchor — C4 Model" width="200"/> </td> </tr> </table>
 
 ---
@@ -15,8 +15,8 @@ Developed the “Pet Insurance” functionality for the mobile app, handling ~5,
 
 ### 🧭 Business Context
 
-- **Domain:** Pet E-commerce Mobile App
-- **Scope:** Implement new Pet Insurance functionality in the existing mobile app
+- **Domain:** E-commerce Mobile App
+- **Scope:** Implement new Insurance functionality in the existing mobile app
 - **Stakeholders:** Client, end users, development team (6 pers)
 
 ---
@@ -29,7 +29,7 @@ Developed the “Pet Insurance” functionality for the mobile app, handling ~5,
 ---
 
 **Key Pain Points**  
-- Growing market demand for pet insurance, especially for dogs
+- Growing market demand for insurance, especially for dogs
 - Users need a simple way to order insurance without filling additional forms  
 - Existing microservices architecture must be updated to integrate new functionality
 
@@ -60,7 +60,7 @@ Developed the “Pet Insurance” functionality for the mobile app, handling ~5,
 - Feature supports fast response (<10 seconds)
 
 ### ✅ Result / Impact (sample)
-- Enabled first validation of pet insurance demand with minimal changes to existing flows  
+- Enabled first validation of insurance demand with minimal changes to existing flows  
 - Zero additional load on Shipping service (no delivery for insurance)  
 - Low expected load handled comfortably (~4–5 req/min, ~100 purchases/day)  
 - Foundation created for future extensions (more pet types, detailed forms, etc.)
@@ -96,7 +96,7 @@ Developed the “Pet Insurance” functionality for the mobile app, handling ~5,
 
 ### 👩‍💼 My Role
 - Analyzed stakeholder interviews & existing microservices architecture  
-- Defined user scenarios for Pet Insurance 
+- Defined user scenarios for Insurance 
 - Updated existing microservices architecture (C4 Container level)  
 - Designed high-level API profile (digital capabilities → operations)  
 - Created formal OpenAPI 3.0 documentation in YAML  
